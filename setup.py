@@ -9,12 +9,12 @@ install_requires = [
 
 setup(
     name='SEEV-base-cryptography',
-    version='0.0.1',  # Adjust the version as necessary
+    version='0.0.2',  # Adjust the version as necessary
     description='Base of the cryptographic library for the SEEV DRE-IP algorithm implementation',
     author='Timothee Dubuc',
     author_email='timothee@global-initiative.com',
     packages=find_packages(),
-    python_requires='~=3.10.13',  # Specify the exact Python version required
+    python_requires='~=3.10.0',  # Specify the exact Python version required
     install_requires=install_requires,
     classifiers=[
         'Development Status :: 3 - Alpha',  # Change as appropriate
