@@ -9,7 +9,7 @@ install_requires = [
 
 setup(
     name='SEEV-base-cryptography',
-    version='0.0.3',  # Adjust the version as necessary
+    version='0.0.4',  # Adjust the version as necessary
     description='Base of the cryptographic library for the SEEV DRE-IP algorithm implementation',
     author='Timothee Dubuc',
     author_email='timothee@global-initiative.com',
